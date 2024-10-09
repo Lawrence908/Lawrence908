@@ -2,12 +2,14 @@
   - 🔭 I’m currently working on AstrID - an astronomy classification machine learning program.
   - 🌱 I’m currently learning OS processes/multithreading/etc. with C.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrence908)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrence908&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Lawrence908/Lawrence908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrence908)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
