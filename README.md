@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a third-year computer science student with a p
 - **Interests**: AI/ML, data science, software development
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrence908)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrence908&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌍 Beyond Code
