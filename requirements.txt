@@ -1,0 +1,12 @@
+pytictoc
+jupyter
+ipykernel
+
+BeautifulSoup4
+pandas
+numpy
+matplotlib
+reportlab
+
+openpyxl
+plotly
