@@ -1,0 +1,29 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Read .env file
+        id: env
+        uses: hashicorp/vault-action@v2
+        with:
+          path: .env
+          exportEnv: true
+      
+      - name: Update README
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: main
+          folder: .
+          clean: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_TOKEN: ${{ env.github-stats-token }} 
