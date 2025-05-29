@@ -17,13 +17,33 @@ jobs:
           node-version: '18'
       
       - name: Update README with Stats
-        run: node scripts/update-stats.js
+        run: |
+          echo "Starting workflow..."
+          echo "Current directory: $(pwd)"
+          echo "Listing files in scripts directory:"
+          ls -la scripts/
+          echo "Running update script..."
+          node scripts/update-stats.js
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+      
+      - name: Show git status
+        run: |
+          echo "Git status before commit:"
+          git status
+          echo "Git diff:"
+          git diff README.md || true
       
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats" && git push) 
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            echo "Changes detected, committing..."
+            git commit -m "Update GitHub stats [skip ci]"
+            git push
+            echo "Changes committed and pushed"
+          fi 
