@@ -11,19 +11,19 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Read .env file
-        id: env
-        uses: hashicorp/vault-action@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          path: .env
-          exportEnv: true
+          node-version: '18'
       
-      - name: Update README
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: main
-          folder: .
-          clean: false
+      - name: Update README with Stats
+        run: node scripts/update-stats.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          STATS_TOKEN: ${{ env.github-stats-token }} 
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats" && git push) 
