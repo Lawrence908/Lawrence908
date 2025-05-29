@@ -25,7 +25,7 @@ jobs:
           echo "Running update script..."
           node scripts/update-stats.js
         env:
-          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
       
       - name: Show git status
         run: |
