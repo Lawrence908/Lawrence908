@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
+// Security: Don't log the token or any sensitive information
 console.log('Starting stats update script...');
 
 // Read the README file
@@ -16,10 +17,20 @@ if (!token) {
 }
 console.log('Token found in environment variables');
 
+// Security: Sanitize any potential token leaks in URLs
+const sanitizeUrl = (url) => {
+  return url.replace(token, '[REDACTED]');
+};
+
 // Update the stats URLs with the token
 const statsUrl = `https://github-readme-stats.vercel.app/api?username=lawrence908&show_icons=true&theme=radical&count_private=true&token=${token}`;
 const langsUrl = `https://github-readme-stats.vercel.app/api/top-langs/?username=lawrence908&layout=donut&theme=radical&count_private=true&token=${token}`;
-console.log('Generated new stats URLs');
+
+// Security: Log sanitized URLs
+console.log('Generated new stats URLs:', {
+  stats: sanitizeUrl(statsUrl),
+  langs: sanitizeUrl(langsUrl)
+});
 
 // Replace the existing stats URLs
 const oldContent = readmeContent;
@@ -38,6 +49,12 @@ if (oldContent === readmeContent) {
   console.log('No changes detected in README content');
 } else {
   console.log('Changes detected in README content');
+}
+
+// Security: Verify no token is accidentally written to the file
+if (readmeContent.includes(token)) {
+  console.error('Error: Token was accidentally included in README content');
+  process.exit(1);
 }
 
 // Write the updated content back to README
