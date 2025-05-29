@@ -6,7 +6,7 @@ const readmePath = path.join(__dirname, '..', 'README.md');
 let readmeContent = fs.readFileSync(readmePath, 'utf8');
 
 // Get the token from environment variable
-const token = process.env.STATS_TOKEN;
+const token = process.env.GITHUB_TOKEN;
 
 // Update the stats URLs with the token
 const statsUrl = `https://github-readme-stats.vercel.app/api?username=lawrence908&show_icons=true&theme=radical&count_private=true&token=${token}`;
