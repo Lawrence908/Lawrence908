@@ -7,7 +7,7 @@ Welcome to my GitHub. I am a third-year computer science student focused on prac
 
 ## Quick Links
 <!-- - [Portfolio](https://your-portfolio-url.com) -->
-- [LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;"> LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
 <!-- - [Email](mailto:c.lawrence908@gmail.com) -->
 
 ---
@@ -80,5 +80,5 @@ When I am not developing or studying, I am usually outdoors—exploring the West
 
 I am always open to collaboration, learning, or sharing ideas. Feel free to reach out.
 
-[LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
-[GitHub](https://github.com/lawrence908)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;"> LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" style="vertical-align:middle; margin-right:4px;"> GitHub](https://github.com/lawrence908)
