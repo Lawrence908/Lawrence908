@@ -1,42 +1,42 @@
-# Hi, I'm Chris 👋
+# Hi, I'm Chris
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lawrence908&color=blueviolet)](https://github.com/lawrence908)
 [![GitHub Followers](https://img.shields.io/github/followers/lawrence908?label=Follow&style=social)](https://github.com/lawrence908)
 
-Welcome to my GitHub! I'm a third-year computer science student focused on practical, scalable software projects that blend AI, system architecture, and creative applications. My background in both development and operations allows me to build full-stack systems that are robust, efficient, and production-ready.
+Welcome to my GitHub. I am a third-year computer science student focused on practical, scalable software projects that blend AI, system architecture, and creative applications. My background in both development and operations allows me to build full-stack systems that are robust, efficient, and production-ready.
 
-## 🔗 Quick Links
+## Quick Links
 <!-- - [Portfolio](https://your-portfolio-url.com) -->
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-lawrence-cd/)
+- [LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
 <!-- - [Email](mailto:c.lawrence908@gmail.com) -->
 
 ---
 
-## 🚀 What I'm Working On
+## Current Projects
 
-### 🎨 Magic Pages
+### Magic Pages
 A full-stack Django-based web application that turns user-submitted inputs into fully customized children's storybooks.
 
 **Key Features:**
-- 🤖 **AI-powered storytelling**: Uses OpenAI's GPT-4o-mini for creative story generation
-- 🎯 **Dynamic customization**: User-selected themes, character traits, and dedications
-- ⚡ **End-to-end automation**: From story generation to print-on-demand
-- ☁️ **Modern deployment**: Azure-based infrastructure with PostgreSQL and Blob Storage
-- 🔒 **Secure integration**: Authenticated API endpoints with WordPress frontend
+- AI-powered storytelling using OpenAI's GPT-4o-mini for creative story generation
+- Dynamic customization with user-selected themes, character traits, and dedications
+- End-to-end automation from story generation to print-on-demand
+- Modern deployment on Azure infrastructure with PostgreSQL and Blob Storage
+- Secure integration with authenticated API endpoints and WordPress frontend
 
 ---
 
-## 📚 What I'm Learning
+## Learning Focus
 
-I'm expanding my backend development toolkit with:
+I am expanding my backend development toolkit with:
 
-- **FastAPI** – Building high-performance, asynchronous APIs
-- **Blockchain & Cryptocurrency** – Smart contracts and Web3 infrastructure
-- **Service-Oriented Architecture** – Scalable, modular systems
+- FastAPI for building high-performance, asynchronous APIs
+- Blockchain and cryptocurrency, including smart contracts and Web3 infrastructure
+- Service-oriented architecture for scalable, modular systems
 
 ---
 
-## 💻 Skills & Tools
+## Skills & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ I'm expanding my backend development toolkit with:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawrence908&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -70,19 +70,15 @@ I'm expanding my backend development toolkit with:
 
 ---
 
-## 🌍 Beyond Code
+## Beyond Code
 
-When I'm not developing or studying, I'm usually outdoors—exploring the West Coast or thinking about how tech can support creativity, learning, and positive impact. I love working on projects that are meaningful, technically challenging, and creatively open-ended.
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaboration, learning, or sharing ideas. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-lawrence-cd/)<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle) -->
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lawrence908)
+When I am not developing or studying, I am usually outdoors—exploring the West Coast or considering how technology can support creativity, learning, and positive impact. I enjoy working on projects that are meaningful, technically challenging, and creatively open-ended.
 
 ---
 
-*Let's build something great, one line at a time.*
+## Connect
+
+I am always open to collaboration, learning, or sharing ideas. Feel free to reach out.
+
+[LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
+[GitHub](https://github.com/lawrence908)
