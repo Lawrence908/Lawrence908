@@ -3,36 +3,48 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=lawrence908&color=blueviolet)](https://github.com/lawrence908)
 [![GitHub Followers](https://img.shields.io/github/followers/lawrence908?label=Follow&style=social)](https://github.com/lawrence908)
 
-Welcome to my GitHub. I am a third-year computer science student focused on practical, scalable software projects that blend AI, system architecture, and creative applications. My background in both development and operations allows me to build full-stack systems that are robust, efficient, and production-ready.
+Software Developer focused on applied AI and cloud-native systems. I design and deploy full-stack architectures using Azure, Django, FastAPI, and OpenAI models to create production-grade tools that blend technical excellence with reliability.
+
+Former military leader turned applied AI developer, bringing 14 years of operational experience to building systems that work under pressure.
 
 ## Quick Links
-<!-- - [Portfolio](https://your-portfolio-url.com) -->
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;"> LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
-<!-- - [Email](mailto:c.lawrence908@gmail.com) -->
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Portfolio" width="20" style="vertical-align:middle; margin-right:4px;"> Portfolio](https://chrislawrence.ca)
 
 ---
 
-## Current Projects
+## Featured Projects
 
 ### Magic Pages
-A full-stack Django-based web application that turns user-submitted inputs into fully customized children's storybooks.
+AI-powered platform that generates personalized children's storybooks using GPT-4 and Azure OpenAI. Built with Django REST Framework, Azure infrastructure, and Lulu print-on-demand integration.
 
-**Key Features:**
-- AI-powered storytelling using OpenAI's GPT-4o-mini for creative story generation
-- Dynamic customization with user-selected themes, character traits, and dedications
-- End-to-end automation from story generation to print-on-demand
-- Modern deployment on Azure infrastructure with PostgreSQL and Blob Storage
-- Secure integration with authenticated API endpoints and WordPress frontend
+**Tech Stack:** Django, Azure OpenAI, PostgreSQL, Azure Blob Storage, Docker, Nginx
+
+### Prospect Arena
+Blockchain-enabled sports prediction platform with event-driven architecture. Implements microservices, event sourcing, and asynchronous REST APIs.
+
+**Tech Stack:** FastAPI, Redis, PostgreSQL, Docker, CI/CD
+
+### SchedShare
+Student utility that parses university course schedule PDFs and exports them as recurring Google Calendar events. Emphasizes lightweight utility and real-world usefulness.
+
+**Tech Stack:** Flask, Redis, Docker, Google Calendar API
+
+### AstrID
+Research-based ML pipeline for identifying celestial objects using U-Net segmentation models. Focused on data preprocessing, FITS integration, and model training.
+
+**Tech Stack:** TensorFlow/Keras, Python, FITS, U-Net architecture
 
 ---
 
-## Learning Focus
+## Current Focus
 
-I am expanding my backend development toolkit with:
+Building scalable AI-driven backends and cloud infrastructure with emphasis on:
 
-- FastAPI for building high-performance, asynchronous APIs
-- Blockchain and cryptocurrency, including smart contracts and Web3 infrastructure
-- Service-oriented architecture for scalable, modular systems
+- Retrieval-Augmented Generation (RAG) systems and ML model integration
+- Production-grade Azure infrastructure and security
+- Event-driven architectures and microservices design
+- Applied AI that bridges technical capability with real-world utility
 
 ---
 
@@ -57,28 +69,36 @@ I am expanding my backend development toolkit with:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### AI & ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawrence908&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawrence908&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrence908&layout=donut&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrence908&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lawrence908&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lawrence908&theme=dark&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 ---
 
 ## Beyond Code
 
-When I am not developing or studying, I am usually outdoors—exploring the West Coast or considering how technology can support creativity, learning, and positive impact. I enjoy working on projects that are meaningful, technically challenging, and creatively open-ended.
+When not developing, I'm usually outdoors exploring the West Coast or considering how technology can support creativity, learning, and positive impact. I enjoy working on projects that are meaningful, technically challenging, and creatively open-ended.
+
 
 ---
 
 ## Connect
 
-I am always open to collaboration, learning, or sharing ideas. Feel free to reach out.
+I'm always open to collaboration, learning, or sharing ideas. Feel free to reach out.
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;"> LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" style="vertical-align:middle; margin-right:4px;"> GitHub](https://github.com/lawrence908)
