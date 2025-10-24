@@ -16,7 +16,7 @@ Former military leader turned applied AI developer, bringing 14 years of operati
 ## Featured Projects
 
 ### Magic Pages
-AI-powered platform that generates personalized children's storybooks using GPT-4 and Azure OpenAI. Built with Django REST Framework, Azure infrastructure, and Lulu print-on-demand integration.
+AI-powered platform that generates personalized children's storybooks using gpt-4o and Azure OpenAI. Built with Django REST Framework, Azure infrastructure, and Lulu print-on-demand integration.
 
 **Tech Stack:** Django, Azure OpenAI, PostgreSQL, Azure Blob Storage, Docker, Nginx
 
