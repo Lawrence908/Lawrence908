@@ -5,7 +5,7 @@
 
 Software Developer focused on applied AI and cloud-native systems. I design and deploy full-stack architectures using Azure, Django, FastAPI, and OpenAI models to create production-grade tools that blend technical excellence with reliability.
 
-Former military leader turned applied AI developer, bringing 14 years of operational experience to building systems that work under pressure.
+Former military leader turned developer, bringing 14 years of operational experience to building systems that work under pressure.
 
 ## Quick Links
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;"> LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
