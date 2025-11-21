@@ -8,8 +8,17 @@ Software Developer focused on applied AI and cloud-native systems. I design and 
 Former military leader turned developer, bringing 14 years of operational experience to building systems that work under pressure.
 
 ## Quick Links
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;"> LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Portfolio" width="20" style="vertical-align:middle; margin-right:4px;"> Portfolio](https://chrislawrence.ca)
+<p>
+  <a href="https://www.linkedin.com/in/chris-lawrence-cd/" title="LinkedIn">
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" alt="LinkedIn" width="30" height="30" style="vertical-align:middle; margin-right:12px;">
+  </a>
+  <a href="https://github.com/lawrence908" title="GitHub">
+    <img src="https://api.iconify.design/mdi/github.svg?color=%23F0F6FC" alt="GitHub" width="30" height="30" style="vertical-align:middle; margin-right:12px;">
+  </a>
+  <a href="https://chrislawrence.ca" title="Portfolio">
+    <img src="https://api.iconify.design/mdi/web.svg?color=%23F0F6FC" alt="Portfolio" width="30" height="30" style="vertical-align:middle;">
+  </a>
+</p>
 
 ---
 
@@ -51,47 +60,61 @@ Building scalable AI-driven backends and cloud infrastructure with emphasis on:
 ## Skills & Tools
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="40" title="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" title="Bash" />
+  <span style="display:inline-flex;align-items:center;height:40px;padding:0 14px;margin:4px 6px;border-radius:8px;background:#1f2933;color:#f5f5f5;font-weight:600;">Common Lisp</span>
+  <span style="display:inline-flex;align-items:center;height:40px;padding:0 14px;margin:4px 6px;border-radius:8px;background:#1f2933;color:#f5f5f5;font-weight:600;">Verilog HDL</span>
+  <span style="display:inline-flex;align-items:center;height:40px;padding:0 14px;margin:4px 6px;border-radius:8px;background:#1f2933;color:#f5f5f5;font-weight:600;;">Assembly (x86)</span>
+</p>
 
 ### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="40" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/openapi/openapi-original.svg" alt="OpenAPI" height="40" title="OpenAPI" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postman/postman-original.svg" alt="Postman" height="40" title="Postman" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" height="40" title="SQLAlchemy" />
+</p>
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="40" title="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="40" title="Google Cloud" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" height="40" title="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="40" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="40" title="Nginx" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/portainer/portainer-original.svg" alt="Portainer" height="40" title="Portainer" />
+</p>
 
 ### AI & ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40" title="PyTorch" />
+  <span style="display:inline-flex;align-items:center;height:40px;padding:0 14px;margin:4px 6px;border-radius:8px;background:#1f2933;color:#f5f5f5;font-weight:600;">OpenAI</span>
+</p>
 
 ---
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawrence908&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrence908&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lawrence908&theme=dark&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
----
+[![GitHub Stats](https://raw.githubusercontent.com/lawrence908/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/Lawrence908/github-stats)
 
-![](https://raw.githubusercontent.com/lawrence908/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/lawrence908/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![GitHub Languages](https://raw.githubusercontent.com/lawrence908/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/Lawrence908/github-stats)
 
 
 Made with [jstrieb's GitHub Stats](https://github.com/jstrieb/github-stats)
@@ -109,5 +132,11 @@ When not developing, I'm usually outdoors exploring the West Coast or considerin
 
 I'm always open to collaboration, learning, or sharing ideas. Feel free to reach out.
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;"> LinkedIn](https://www.linkedin.com/in/chris-lawrence-cd/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" style="vertical-align:middle; margin-right:4px;"> GitHub](https://github.com/lawrence908)
+<p>
+  <a href="https://www.linkedin.com/in/chris-lawrence-cd/" title="LinkedIn">
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" alt="LinkedIn" width="30" height="30" style="vertical-align:middle; margin-right:16px;">
+  </a>
+  <a href="https://github.com/lawrence908" title="GitHub">
+    <img src="https://api.iconify.design/mdi/github.svg?color=%23F0F6FC" alt="GitHub" width="30" height="30" style="vertical-align:middle;">
+  </a>
+</p>
