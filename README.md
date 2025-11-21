@@ -89,6 +89,15 @@ Building scalable AI-driven backends and cloud infrastructure with emphasis on:
 
 ---
 
+![](https://raw.githubusercontent.com/lawrence908/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/lawrence908/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
+Made with [jstrieb's GitHub Stats](https://github.com/jstrieb/github-stats)
+
+---
+
 ## Beyond Code
 
 When not developing, I'm usually outdoors exploring the West Coast or considering how technology can support creativity, learning, and positive impact. I enjoy working on projects that are meaningful, technically challenging, and creatively open-ended.
