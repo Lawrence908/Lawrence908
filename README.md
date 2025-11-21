@@ -69,9 +69,6 @@ Building scalable AI-driven backends and cloud infrastructure with emphasis on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" title="Bash" />
-  <span style="display:inline-flex;align-items:center;height:40px;padding:0 14px;margin:4px 6px;border-radius:8px;background:#1f2933;color:#f5f5f5;font-weight:600;">Common Lisp</span>
-  <span style="display:inline-flex;align-items:center;height:40px;padding:0 14px;margin:4px 6px;border-radius:8px;background:#1f2933;color:#f5f5f5;font-weight:600;">Verilog HDL</span>
-  <span style="display:inline-flex;align-items:center;height:40px;padding:0 14px;margin:4px 6px;border-radius:8px;background:#1f2933;color:#f5f5f5;font-weight:600;;">Assembly (x86)</span>
 </p>
 
 ### Frameworks & Tools
@@ -103,7 +100,6 @@ Building scalable AI-driven backends and cloud infrastructure with emphasis on:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40" title="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40" title="PyTorch" />
-  <span style="display:inline-flex;align-items:center;height:40px;padding:0 14px;margin:4px 6px;border-radius:8px;background:#1f2933;color:#f5f5f5;font-weight:600;">OpenAI</span>
 </p>
 
 ---
