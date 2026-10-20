@@ -39,6 +39,11 @@ Student utility that parses university course schedule PDFs and exports them as 
 
 **Tech Stack:** Flask, Redis, Docker, Google Calendar API
 
+### Interactive Linear Algebra
+16 interactive Jupyter notebooks covering a full linear algebra course with live visualizations -- animated grid transformations, an eigenvector hunter, step-by-step Gaussian elimination with exact fractions, and Markov chain simulations. Built as a study tool and teaching aid with Google Colab support.
+
+**Tech Stack:** Python, NumPy, Matplotlib, ipywidgets, SymPy, Plotly, JupyterLab
+
 ### AstrID
 Research-based ML pipeline for identifying celestial objects using U-Net segmentation models. Focused on data preprocessing, FITS integration, and model training.
 
