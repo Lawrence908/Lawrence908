@@ -53,7 +53,7 @@ A Claude Code plugin marketplace: 20 agent skills across AI engineering, develop
 - **[SchedShare](https://github.com/Lawrence908/schedshare)**: turns university schedule PDFs into recurring Google Calendar events. Flask, Redis.
 - **[JobKit](https://jobkit.chrislawrence.ca)**: tailors resumes and cover letters from one YAML source of truth; the LLM rephrases, never invents. FastAPI, React.
 - **[Billable](https://github.com/Lawrence908/billable)**: per-client hours tracker that never leaves the browser. Offline, no network after load.
-- **[Interactive Linear Algebra](https://github.com/Lawrence908/linear-algebra)**: 16 Jupyter notebooks covering a full course with live visualizations: animated grid transformations, an eigenvector hunter, exact-fraction Gaussian elimination, Markov chains. NumPy, SymPy, ipywidgets.
+- **[Math Wizard](https://github.com/Lawrence908/math-wizard)**: 135 interactive Jupyter notebooks from grade 3 through university (linear algebra, calculus 2, discrete math), each with live widgets and an Open in Colab button. The [linear algebra](https://github.com/Lawrence908/linear-algebra) set also stands alone. NumPy, SymPy, ipywidgets.
 - **[Gravity](https://gravity.chrislawrence.ca)**: interactive 3D N-body simulation built for an astronomy course. NumPy, CUDA, WebGL.
 
 ---
