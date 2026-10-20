@@ -34,7 +34,7 @@ My CSCI 491 senior research project at Vancouver Island University. An end-to-en
 `PyTorch` `AstroPy` `CUDA` `MLflow` `FastAPI`
 
 ### [The Cycle Board](https://github.com/Lawrence908/econ) &nbsp;·&nbsp; [live](https://econ.chrislawrence.ca)
-Ten narrow economic trackers, each its own repo answering one question (is the yield curve inverted? has housing rolled over? are banks tightening?), read together on one board that ranks how far ahead of past recessions each has historically turned. Every tracker publishes to a shared [contract](https://github.com/Lawrence908/econ-core), so the board authors no figure of its own and a downed tracker degrades to one stale row. No framework, no build step.
+Eleven narrow economic trackers, each its own repo answering one question (is the yield curve inverted? has housing rolled over? are banks tightening?), read together on one board that ranks how far ahead of past recessions each has historically turned. Every tracker publishes to a shared [contract](https://github.com/Lawrence908/econ-core), so the board authors no figure of its own and a downed tracker degrades to one stale row. No framework, no build step.
 
 `Python` `Vanilla JS` `FRED API` `nginx` `Docker`
 
